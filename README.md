@@ -37,14 +37,15 @@ Save the deployed contract address.
     CONTRACT_ADDR=<deployed contract address>
     ```
 
- Start:
-         ```
-         npm run start:decryptor
-         ```
+   Start:
+   
+     ```
+     npm run start:decryptor
+         
 
 
 
-5. Run tests
+6. Run tests
 ```
 npm test
 
